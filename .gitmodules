@@ -335,9 +335,9 @@
 	branch = .
 [submodule "interval"]
 	path = libs/numeric/interval
-	url = ../../boostorg/interval.git
+	url = ../mocha-boost-interval.git
 	fetchRecurseSubmodules = on-demand
-	branch = .
+	branch = master
 [submodule "ublas"]
 	path = libs/numeric/ublas
 	url = ../../boostorg/ublas.git
