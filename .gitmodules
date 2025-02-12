@@ -65,7 +65,7 @@
 	branch = .
 [submodule "interprocess"]
 	path = libs/interprocess
-	url = ../../boostorg/interprocess.git
+	url = ../interprocess.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "exception"]
