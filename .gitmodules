@@ -395,7 +395,7 @@
 	branch = .
 [submodule "asio"]
 	path = libs/asio
-	url = ../../boostorg/asio.git
+	url = ../boost-asio.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "uuid"]
@@ -645,7 +645,7 @@
 	branch = .
 [submodule "process"]
 	path = libs/process
-	url = ../../boostorg/process.git
+	url = ../boost-process.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "stacktrace"]
